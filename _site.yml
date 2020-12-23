@@ -1,8 +1,9 @@
 name: "ahmoreira"
+output_dir: "docs"
 navbar:
     title: "My website"
     left:
-        - text: "Home"
-            href: index.html
-        - text: "About"
-            href: about.html
+      - text: "Home"
+        href: index.html
+      - text: "About"
+        href: about.html
